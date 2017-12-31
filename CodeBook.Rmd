@@ -14,7 +14,9 @@ Both of the following were added to the raw data and recoded as factor variables
 
 <li> Activity-The activity being performed when the measurements were being taken 
 
-##Activity Labels
+</ul>
+
+## Activity Labels
 The levels of the activity variable are labeled as follows: 
 
 <ul>
@@ -30,7 +32,8 @@ The levels of the activity variable are labeled as follows:
 
 <li> laying (value 6): Subject was laying down during meaurement 
 
-##Measurements
+</ul>
+## Measurements
 The following variables are numeric variables representing means and standard deviations filtered from the original 561 variables in the raw data
 
 <ul>
@@ -113,7 +116,7 @@ The following variables are numeric variables representing means and standard de
 <li>fBodyBodyGyroJerkMagMean
 <li>fBodyBodyGyroJerkMagStd
 <li>fBodyBodyGyroJerkMagMeanFreq
-
+</ul>
 
 
 </html>
