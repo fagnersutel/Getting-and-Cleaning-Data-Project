@@ -1,8 +1,10 @@
 # Getting-and-Cleaning-Data-Project
 
 The files contained in this repository are the products of the Getting and Cleaning Data course project. 
-The untidy inputs to the project are datasets found in: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip/
-The output is a tidy data set called tidy_data.txt. 
+
+The untidy input to the project are datasets found in: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip/
+
+The output is a tidy data set called tidy_data.txt  
 
 The R script, run_analysis.R, generates tidy_data.txt from the input data by: 
 
