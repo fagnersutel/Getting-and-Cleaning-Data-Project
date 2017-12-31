@@ -1,8 +1,4 @@
----
-title: "CodeBook"
----
-<!DOCTYPE html>
-<html>
+### CODEBOOK
 
 This codebook summarizes the data fields found in tidy.txt
 
@@ -33,6 +29,7 @@ The levels of the activity variable are labeled as follows:
 <li> laying (value 6): Subject was laying down during meaurement 
 
 </ul>
+
 ## Measurements
 The following variables are numeric variables representing means and standard deviations filtered from the original 561 variables in the raw data
 
